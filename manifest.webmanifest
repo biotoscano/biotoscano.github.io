@@ -2,7 +2,7 @@
   "name": "toscano teams",
   "short_name": "toscano",
   "start_url": "/",
-  "display": "fullscreen",
+  "display": "standalone",
   "theme_color": "#ffffff",
   "background_color":"#ffffff",
   "icons": [
